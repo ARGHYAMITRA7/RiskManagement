@@ -21,4 +21,3 @@ services:
 databases:
   - name: ai-student-db
     databaseName: app_db
-    user: postgres
